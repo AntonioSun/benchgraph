@@ -1,4 +1,4 @@
-module github.com/codingberg/benchgraph
+module github.com/AntonioSun/benchgraph
 
 go 1.13
 
